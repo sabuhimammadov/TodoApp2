@@ -1,0 +1,33 @@
+.search-info {
+    position: relative;
+}
+
+.add-item {
+    width: 247px;
+    height: 42px;
+    border-radius: 16px;
+    background: #3A3F47;
+    color: #FFF;
+    padding-left: 24px;
+    border: none;
+    margin-right: 12px;
+}
+
+.title {
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.add-btn{
+position: absolute;
+width: 56px;
+height: 42px;
+background: darkred;
+border: none;
+border-radius: 12px;
+padding: 12px;
+color: #FFF;
+
+}
